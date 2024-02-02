@@ -21,7 +21,7 @@
         dense
         :rows="users"
         row-key="id"
-        :rows-per-page-options="[10, 25, 50]"
+        :rows-per-page-options="[5, 25, 50]"
     >
       <template>
         <q-tr>

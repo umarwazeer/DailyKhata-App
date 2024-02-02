@@ -26,10 +26,10 @@ export default defineComponent({
   data () {
     return {
       users: [],
-      name: '', 
+      name: '',
       newUser: {
         name: "",
-        surname: "", 
+        surname: "",
         nickname: ""
       },
       addUserFormOpen:false
