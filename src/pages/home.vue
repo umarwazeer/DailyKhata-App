@@ -1,7 +1,6 @@
 <template>
   <div class="q-pa-sm">
     <q-card class="row q-flex justify-center">
-      <h6>this is master branch </h6>
       <div class="col-12  col-md-8 q-px-md q-pt-md text-center " style="color: rgb(7, 112, 112);">
         <div class="text-h5 text-bold">200,342.00</div>
         <div class="text-subtitle2 text-grey">Current Balance</div>
